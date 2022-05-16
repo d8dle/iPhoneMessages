@@ -3,7 +3,7 @@ View and Export messages from iPhone backups
 
 It's a free but not (yet) an open source application.
 This repository is used to track issues.
-If you have any issue using the application, or want to request a new feature, feel free to submit it via the "Issues" section of this repository.
+If you have any issue using the application, or want to request a new feature, feel free to submit it <a href="https://github.com/d8dle/iPhoneMessages/issues">here</a>.
 
 I created this application for my own usage. I only tested it with iTunes 12 and iPhone 7 with IOS 15. 
 Please let me know if you find it not working with other versions of iTunes or IOS.
@@ -15,7 +15,7 @@ The binary can be downloaded <a href="https://github.com/d8dle/iPhoneMessages/re
 Usage
 -----
 1. Use iTunes to make a unencrypted backup of your iPhone.
-2. Download the binary and extract it to any folder.
+2. <a href="https://github.com/d8dle/iPhoneMessages/releases/download/v1.0.0/iPhoneMessages.v1.0.0.zip">Download</a> the binary and extract it to any folder.
 3. Run the application.
 
 ![screeshot](https://github.com/d8dle/iPhoneMessages/raw/main/screeshot1.jpg)
